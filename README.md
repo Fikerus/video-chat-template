@@ -7,7 +7,7 @@ What you need to do to setup this server:
 git clone https://github.com/Fikerus/video-chat-template.git
 cd video-chat-template
 npm i
-npm i -g peer
+sudo npm i -g peer
 ```
 
 Then in one terminal you launch node server:
